@@ -1,0 +1,32 @@
+# QuotesQuotesQuote
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**symbol** | **String** |  |  [optional]
+**description** | **String** |  |  [optional]
+**exch** | **String** |  |  [optional]
+**type** | **String** |  |  [optional]
+**last** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**change** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**volume** | **Integer** |  |  [optional]
+**open** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**high** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**low** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**close** | **String** |  |  [optional]
+**bid** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**ask** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**changePercentage** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**averageVolume** | **Integer** |  |  [optional]
+**lastVolume** | **Integer** |  |  [optional]
+**tradeDate** | **Long** |  |  [optional]
+**prevclose** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**week52High** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**week52Low** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
+**bidsize** | **Integer** |  |  [optional]
+**bidexch** | **String** |  |  [optional]
+**bidDate** | **Long** |  |  [optional]
+**asksize** | **Integer** |  |  [optional]
+**askexch** | **String** |  |  [optional]
+**askDate** | **Long** |  |  [optional]
+**rootSymbols** | **String** |  |  [optional]
